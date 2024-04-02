@@ -5,8 +5,8 @@
 <details>
 <summary>1. Tutorial</summary>
 <ul>
-    <li> - [1_understanding_pipeline.ipynb](https://huggingface.co/docs/diffusers/using-diffusers/write_own_pipeline) </li>
-    <li> - [1_basic_training.ipynb](https://huggingface.co/docs/diffusers/tutorials/basic_training) </li>
+    <li> [1_understanding_pipeline.ipynb](https://huggingface.co/docs/diffusers/using-diffusers/write_own_pipeline) </li>
+    <li> [1_basic_training.ipynb](https://huggingface.co/docs/diffusers/tutorials/basic_training) </li>
 </ul>
 </details>
 
