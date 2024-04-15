@@ -1,6 +1,8 @@
 # information
 [Diffusers](https://huggingface.co/docs/diffusers/index)
 
+for tutorial Diffuser huggingface library
+
 # list
 <details>
 <summary>1. Tutorial</summary>
