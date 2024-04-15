@@ -14,6 +14,7 @@
 <summary>2. Using diffusers - Loading & Hub</summary>
 <ul>
     <li> <A href="https://huggingface.co/docs/diffusers/using-diffusers/text-img2vid">2_image_to_video.ipynb</A> </li>
+    <li><A href="https://huggingface.co/wangfuyun/AnimateLCM-I2V">AnimateLCM.ipynb</A></li>
 </ul>
 </details>
 3. Using diffusers - Tasks
