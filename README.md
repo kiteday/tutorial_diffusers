@@ -5,11 +5,16 @@
 <details>
 <summary>1. Tutorial</summary>
 <ul>
-    <li> [1_understanding_pipeline.ipynb](https://huggingface.co/docs/diffusers/using-diffusers/write_own_pipeline) </li>
-    <li> [1_basic_training.ipynb](https://huggingface.co/docs/diffusers/tutorials/basic_training) </li>
+    <li> <A href="https://huggingface.co/docs/diffusers/using-diffusers/write_own_pipeline">1_understanding_pipeline.ipynb</A> </li>
+    <li> <A href="https://huggingface.co/docs/diffusers/tutorials/basic_training">1_basic_training.ipynb </A></li>
 </ul>
 </details>
 
-2. Using diffusers - Loading & Hub
+<details>
+<summary>2. Using diffusers - Loading & Hub</summary>
+<ul>
+    <li> <A href="https://huggingface.co/docs/diffusers/using-diffusers/text-img2vid">2_image_to_video.ipynb</A> </li>
+</ul>
+</details>
 3. Using diffusers - Tasks
  
