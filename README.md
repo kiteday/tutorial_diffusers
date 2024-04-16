@@ -19,5 +19,12 @@ for tutorial Diffuser huggingface library
     <li><A href="https://huggingface.co/wangfuyun/AnimateLCM-I2V">AnimateLCM.ipynb</A></li>
 </ul>
 </details>
-3. Using diffusers - Tasks
+
+<details>
+<summary>3. Using diffusers - Tasks</summary>
+<ul>
+    <li><A href="https://huggingface.co/docs/diffusers/using-diffusers/inference_with_lcm_lora">2_adapter_for_image.ipynb</A></li>
+</ul>
+</details>
+
  
